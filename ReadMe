@@ -1,0 +1,7 @@
+Linux_CPUse
+-----------
+
+Linux program that visually displays your machines CPU usage.
+
+To run the program simply navigate to the project's "/bin" folder via terminal
+and run the executable file.
